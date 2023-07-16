@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin:0px;
+  background-image: url("space-game-background-with-landscape-planet_107791-1700.avif");
+    
+}
+.content{
+    border: 1px solid;
+    padding: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    width: 30%;
+    margin: 8% 0% 0% 30%;
+    border-radius:15px;
+    background-color: chartreuse;
+    border-radius: 10px;
+   background-image: url("download.jpeg");
+}
+#start{
+    background-color: aqua;
+}
+#start:hover{
+    background-color: hotpink;
+}
+.content:hover{
+    background-color: deepskyblue;
+}
+
+.gtn{
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin-top: 7%;
+    padding: 2%;
+    width: 35%;
+    border-radius:7px;
+}
+
+/* second page */
+
+.text{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.enter_num{
+    border: 1px solid;
+    padding: 1%;
+    width: 70%;
+    height: 30px;
+    text-align: center;
+    border-radius:10px;
+    font-weight: 700;
+}
+
+#lives{
+    margin-top:4%;
+}
+
+#message{
+    margin-top:4%;
+}

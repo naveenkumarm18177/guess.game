@@ -1,0 +1,17 @@
+*{
+    background-image: url("win.jpg");
+}
+#won{
+    border: 10px solid black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 550px;
+    margin-left: 400px;
+    margin-top: 200px;
+    background-color: crimson;
+    font-size: xx-large;
+    padding-top: 10%;
+    
+}
